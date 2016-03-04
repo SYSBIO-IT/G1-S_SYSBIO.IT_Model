@@ -47,5 +47,5 @@ Functions to evaluate the hill coefficient and the median point for the fraction
 
 RUN THE CODE
 To execute the Matlab code, the SingleCell.m script must be run.
->>SingleCell
+
 
